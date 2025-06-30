@@ -21,20 +21,16 @@ Welcome to **Dragon Egg Game** — a 2D action-stealth game where your hero atte
 - Python 3.x
 - [`pgzero`](https://pygame-zero.readthedocs.io/) library (for simple game development with Pygame)
 
-### Installation Steps
-
-1. **Clone the repository**
+### Installation 
 
 git clone https://github.com/Johnmcginnes168/Dragon-Egg-Game.git
 cd Dragon-Egg-Game
 
-  Install Pygame Zero
+Install Pygame Zero
 
 pip install pgzero
 
- How to Play
-
-   Run the game with:
+Run the game with:
 
 pgzrun dragon.py
 
